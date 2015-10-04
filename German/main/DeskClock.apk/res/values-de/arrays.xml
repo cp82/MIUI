@@ -926,14 +926,14 @@
         <item>C299</item>
     </string-array>
     <string-array name="alarm_in_furture">
-        <item>Wecker klingelt in weniger als 1 Minute</item>
-        <item>Wecker klingelt in %1$s</item>
-        <item>Wecker klingelt in %2$s</item>
-        <item>Wecker klingelt in %1$s %2$s</item>
-        <item>Wecker klingelt in %3$s</item>
-        <item>Wecker klingelt in %1$s %3$s</item>
-        <item>Wecker klingelt in %2$s %3$s</item>
-        <item>Wecker klingelt in %1$s %2$s %3$s</item>
+        <item>Wecker läutet in weniger als 1 Minute</item>
+        <item>Wecker läutet in %1$s</item>
+        <item>Wecker läutet in %2$s</item>
+        <item>Wecker läutet in %1$s %2$s</item>
+        <item>Wecker läutet in %3$s</item>
+        <item>Wecker läutet in %1$s %3$s</item>
+        <item>Wecker läutet in %2$s %3$s</item>
+        <item>Wecker läutet in %1$s %2$s %3$s</item>
     </string-array>
     <string-array name="days">
         <item>Gestern</item>
@@ -967,14 +967,14 @@
         <item>4</item>
     </integer-array>
     <string-array name="alarm_set">
-        <item>Der Wecker klingelt in weniger als 1 Minute</item>
-        <item>Der Wecker klingelt in %1$s</item>
-        <item>Der Wecker klingelt in %2$s</item>
-        <item>Der Wecker klingelt in %1$s und %2$s</item>
-        <item>Der Wecker klingelt in %3$s</item>
-        <item>Der Wecker klingelt in %1$s und %3$s</item>
-        <item>Der Wecker klingelt in %2$s und %3$s</item>
-        <item>Der Wecker klingelt in %1$s, %2$s, und %3$s</item>
+        <item>Der Wecker läutet in weniger als 1 Minute</item>
+        <item>Der Wecker läutet in %1$s</item>
+        <item>Der Wecker läutet in %2$s</item>
+        <item>Der Wecker läutet in %1$s und %2$s</item>
+        <item>Der Wecker läutet in %3$s</item>
+        <item>Der Wecker läutet in %1$s und %3$s</item>
+        <item>Der Wecker läutet in %2$s und %3$s</item>
+        <item>Der Wecker läutet in %1$s, %2$s, und %3$s</item>
     </string-array>
     <string-array name="snooze_duration_entries">
         <item>1 Minute</item>
