@@ -114,8 +114,8 @@
         <item quantity="one">Diese Nummer entsperren?</item>
     </plurals>
     <plurals name="callNoAnswerTimeFormat">
-        <item quantity="other">%d x angeklingelt</item>
-        <item quantity="one">%d x angeklingelt</item>
+        <item quantity="other">hat %d Mal geläutet</item>
+        <item quantity="one">hat einmal geläutet</item>
     </plurals>
     <plurals name="contacts_count">
         <item quantity="other">%1$d Kontakte</item>
