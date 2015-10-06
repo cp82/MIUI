@@ -25,7 +25,7 @@
   <string name="account_set_up_change_type_note">Wenn Sie zwischen POP3 und IMAP Einstellungen wechseln müssen, dann löschen Sie ihr Konto und erstellen ein neses mit den gewünschten Einstellungen.</string>
   <string name="account_settings_action">Kontoeinstellungen</string>
   <string name="account_settings_background_attachments_label">Anhänge herunterladen</string>
-  <string name="account_settings_background_attachments_summary">Anhänge herunterladen mit Wi-Fi</string>
+  <string name="account_settings_background_attachments_summary">Anhänge herunterladen mit WLAN</string>
   <string name="account_settings_data_usage">Synchronisierungseinstellungen</string>
   <string name="account_settings_description_label">Kontobezeichnung</string>
   <string name="account_settings_edit_quick_responses_label">Schnelle Antwort</string>
@@ -125,7 +125,7 @@
   <string name="account_setup_options_mail_window_3days">Letzten 3 Tage</string>
   <string name="account_setup_options_mail_window_all">Alles</string>
   <string name="account_setup_options_mail_window_auto">Automatisch</string>
-  <string name="account_setup_options_mail_window_default">Verwende Standartkonto</string>
+  <string name="account_setup_options_mail_window_default">Verwende Standardkonto</string>
   <string name="account_setup_options_mail_window_label">Synchronisiere Mails von</string>
   <string name="account_setup_options_title">Kontoeinstellungen</string>
   <string name="account_setup_outgoing_port_label">Port</string>
@@ -282,11 +282,11 @@
   <string name="date_heading">"Datum: "</string>
   <string name="date_message_received">%1$s %2$s</string>
   <string name="date_message_received_today">Heute, %1$s</string>
-  <string name="default_">STANDART</string>
+  <string name="default_">STANDARD</string>
   <string name="default_exchange">EXCHANGE</string>
   <string name="default_imap">IMAP</string>
   <string name="default_pop3">POP3</string>
-  <string name="default_setup">STANDARTEINSTELLUNGEN</string>
+  <string name="default_setup">STANDARDEINSTELLUNGEN</string>
   <string name="default_signature">Gesendet von meinem Mi Telefon</string>
   <string name="delete">Löschen</string>
   <string name="deleted">Gelöscht</string>
@@ -618,7 +618,7 @@
   <string name="policy_dont_allow_text_messaging">"Erlaube keine SMS-Nachrichten"</string>
   <string name="policy_dont_allow_unsigned_apps">"Unsignierte Apps nicht zulassen"</string>
   <string name="policy_dont_allow_unsigned_installers">"Unsignierte Appinstaller nicht erlauben"</string>
-  <string name="policy_dont_allow_wifi">"Wi-Fi nicht erlauben"</string>
+  <string name="policy_dont_allow_wifi">"WLAN nicht zulassen"</string>
   <string name="policy_email_age">Begrenze die Anzahl von E-Mails, welche synchronisiert werden</string>
   <string name="policy_html_truncation">Beschränke HTML-E-Mail Größe</string>
   <string name="policy_password_expiration">Ablauf von Passwörtern einstellen</string>
