@@ -410,7 +410,7 @@ T"&lt;/b&gt;"Versuchen Sie ein anderes Ethernet-Kabel am Router zu verwenden. We
   <string name="see_detail">Details</string>
   <string name="setting_traffic_pkg">Datenpakete einstellen</string>
   <string name="settings">Einstellung zur Datennutzung</string>
-  <string name="show_traffic_dialog_message">Deine Datennutzung wird in der Statusleiste angezeigt. Du kannst diese Funktion in den Einstellungen der Datennutzung jederzeit verändern. &gt; </string>
+  <string name="show_traffic_dialog_message">Ihre Datennutzung wird in der Statusleiste angezeigt. Sie können diese Funktion in den Einstellungen der Datennutzung jederzeit verändern.</string>
   <string name="show_traffic_dialog_title">Zeige Verbrauch in der Statusleiste</string>
   <string name="signal_exception_summary">"In diesem Bereich kann zu keinem Netzwerk verbunden werden."</string>
   <string name="signal_exception_title">Teste Signalstärke</string>
@@ -500,7 +500,7 @@ Ihr monatlich eingestelltes Limit ist %1$s. Dies unterscheidet sich vom dem manu
   <string name="traffic_protection_next">Weiter</string>
   <string name="traffic_protection_summary">Alarm wenn der Datenverbrauch eine bestimmte Grenze überschreitet</string>
   <string name="traffic_protection_text_hint">Datenlimit für %s einstellen</string>
-  <string name="traffic_protection_unknown">&lt;u&gt;Später einstellen&lt;/u&gt;</string>
+  <string name="traffic_protection_unknown"><u>Später einstellen</u></string>
   <string name="traffic_protection_use_data">Datenverbindung aktiviert</string>
   <string name="traffic_purchase_body">Antippen, um Ihr Guthaben aufzuladen.</string>
   <string name="traffic_purchse_suggestion">Datenlimit überschritten</string>
