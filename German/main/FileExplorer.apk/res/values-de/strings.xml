@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
   <string name="account_bind_prompt">Benutzerdaten werden übertragen... Dies kann ein paar Minuten dauern.</string>
-  <string name="action_mode_deselect_all">Deselect all</string>
-  <string name="action_mode_select_all">Select all</string>
+  <string name="action_mode_deselect_all">Keine</string>
+  <string name="action_mode_select_all">Alle</string>
   <string name="add_task">Hinzufügen</string>
   <string name="adding_upload_tasks">Aufgaben hinzufügen...</string>
   <string name="already_signin_description">Sie sind bereits angemeldet.</string>
@@ -165,7 +165,7 @@
   <string name="group_title_extra_expire">About to expire</string>
   <string name="group_title_extra_new">New</string>
   <string name="instruction">Folgende Adresse im FTP-Client eingeben:</string>
-  <string name="instruction_pre">"Drücken Sie 'Start' um den FTP-Server einzuschalten"</string>
+  <string name="instruction_pre">"Drücken Sie 'Start' um den FTP-Server einzuschalten."</string>
   <string name="just_now">Jetzt</string>
   <string name="kilobyteShort">KB</string>
   <string name="kp_category_all">Kategorie</string>
@@ -253,11 +253,11 @@
   <string name="never_notify_network_connect">"Nicht mehr anzeigen"</string>
   <string name="new_folder_name">Neuer Ordner</string>
   <string name="no">Nein</string>
-  <string name="no_app_tags">Empty</string>
+  <string name="no_app_tags">Keine vorhanden</string>
   <string name="no_display_file">"%1$s kann nicht angezeigt werden"</string>
   <string name="no_enough_storage_indication">Gerätespeicher ist voll.</string>
   <string name="no_enough_storage_title">Nicht genügend Speicherplatz</string>
-  <string name="no_file">Keine Dateien.</string>
+  <string name="no_file">Keine Dateien</string>
   <string name="no_more_space">Nicht genügend Speicherplatz.</string>
   <string name="no_recent_files">Keine kürzlich verwendeten Dateien</string>
   <string name="no_tasks">Keine Aufgaben.</string>
@@ -329,7 +329,7 @@
   <string name="rename_alert">Wenn Sie Erweiterung dieser Datei ändern, können Sie die Datei nicht mehr öffnen.</string>
   <string name="rename_description">Umbenennen…</string>
   <string name="rename_failed">Umbenennen von %1$s fehlgeschlagen</string>
-  <string name="rlv_last_refreshing_time">Zuletzt gesucht %1$s</string>
+  <string name="rlv_last_refreshing_time">Zuletzt gesucht: %1$s</string>
   <string name="rlv_loading_more">Einen Moment…</string>
   <string name="rlv_pull_to_refresh">Ziehen zum aktualisiere</string>
   <string name="rlv_refreshing">Suche Dateien…</string>
@@ -382,7 +382,7 @@
   <string name="send_to_midrive_failed_message">Dateityp wird nicht unterstützt.</string>
   <string name="server_control_advanced_settings">FTP-Einstellungen</string>
   <string name="server_control_charset">Übertragungscodierung</string>
-  <string name="server_control_settings">Einstellung</string>
+  <string name="server_control_settings">Einstellungen</string>
   <string name="share_box">Geteilt</string>
   <string name="share_box_receive">Empfangen</string>
   <string name="share_box_send">Gesendet</string>
