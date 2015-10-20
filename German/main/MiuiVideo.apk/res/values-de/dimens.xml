@@ -339,7 +339,11 @@
     <dimen name="MIRROR_HEIGHTER">93.0dip</dimen>
     <dimen name="ITEM_DIVIDE_SIZE">6.0dip</dimen>
     <dimen name="ITEM_VERTICAL_DIVIDE_SIZE">10.0dip</dimen>
+<<<<<<< HEAD
     <dimen name="text_tab_padding">5.0dip</dimen>
+=======
+    <dimen name="text_tab_padding">15.0dip</dimen>
+>>>>>>> master
     <dimen name="ITEM_V_WIDTH">134.0dip</dimen>
     <dimen name="ITEM_V_HEIGHT">202.0dip</dimen>
     <dimen name="ITEM_H_WIDTH">202.0dip</dimen>
