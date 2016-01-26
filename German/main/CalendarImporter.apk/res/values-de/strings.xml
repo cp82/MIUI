@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="calendar_lable">"Kalender: "</string>
+  <string name="cancel">Abbrechen</string>
+  <string name="date_lable">"Datum: "</string>
+  <string name="done">Erledigt</string>
+  <string name="give_up">Verwerfen</string>
+  <string name="import_button">Importieren</string>
+  <string name="import_complete">Importieren abgeschlossen</string>
+  <string name="import_message">Möchten Sie # zum Kalender hinzufügen?</string>
+  <string name="import_title">Termin zum Kalender hinzufügen</string>
+  <string name="import_to">Hinzufügen zu</string>
+  <string name="import_vcs_failed">Hinzufügen fehlgeschlagen.</string>
+  <string name="importing">Importieren ...</string>
+  <string name="loading">Laden…</string>
+  <string name="no_access_toast">Keinen Account gefunden, bitte erst einen erstellen</string>
+  <string name="no_calendars_found">Dieser Account kann nicht Synchronisiert werden, oder die letzte Synchronisation ist fehlgeschlagen.</string>
+  <string name="no_syncable_calendars">Kann nicht importiert werden</string>
+  <string name="not_support_multi_events">Dateien mit mehreren Ereignissen werden nicht unterstützt.</string>
+  <string name="null_name">Keine</string>
+  <string name="open">Öffnen</string>
+  <string name="open_calendar_failed">Kalender ist nicht verfügbar</string>
+  <string name="progresshundred">100%</string>
+  <string name="progresszero">0%</string>
+  <string name="retry">Zurück</string>
+  <string name="title_lable">"Titel: "</string>
+</resources>

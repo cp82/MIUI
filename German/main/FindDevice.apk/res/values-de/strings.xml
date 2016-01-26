@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<resources>
+  <string name="activate_xiaomi_account">Dieses Gerät aktivieren</string>
+  <string name="app_name">Gerät finden</string>
+  <string name="captcha">Captcha</string>
+  <string name="change_find_device_status_failed">"Entsperren fehlgeschlagen. %s."</string>
+  <string name="default_lock_msg_words">Hallo! Ich habe mein Telefon verloren. Ich werde mich mit Ihnen in Verbindung setzen. Danke für Ihr Verständnis!</string>
+  <string name="default_lock_msg_words_with_phone">Hallo! Ich habe mein Telefon verloren. Könnten Sie mich bitte kontaktieren? Vielen Dank!</string>
+  <string name="device_lost">Dieses Gerät wurde verloren</string>
+  <string name="disable_find_device_error">"\"Gerät finden\" konnte nicht deaktiviert werden. %1$s"</string>
+  <string name="disable_find_device_success">"\"Gerät finden\" ist deaktiviert"</string>
+  <string name="enable_find_device_error">"\"Gerät finden\" konnte nicht aktiviert werden. %1$s"</string>
+  <string name="enable_find_device_success">"\"Gerät finden\" ist aktiviert"</string>
+  <string name="find_device">Gerät finden</string>
+  <string name="find_device_crash">Das Gerät wird unerwartet beendet</string>
+  <string name="find_device_error_account_sys_timeout">"Konnte nicht mit Mi-Konto verbinden."</string>
+  <string name="find_device_error_network">Verbindung zum Netzwerk fehlgeschlagen, versuchen Sie es später erneut</string>
+  <string name="find_device_error_password_changed">Passwort wurde vor kurzem geändert.</string>
+  <string name="find_device_error_server">Server-Fehler</string>
+  <string name="find_device_error_unknown">Unbekannter Fehler.</string>
+  <string name="find_device_noise_title">"\"Gerät finden\" Alarm"</string>
+  <string name="find_device_notice_p1">Besuchen Sie</string>
+  <string name="find_device_notice_p2">i.mi.com</string>
+  <string name="find_device_notice_p3">"um Ihr Gerät zu finden, zu sperren oder wiederherzustellen.
+Wenn Sie die SIM-Karte tauschen, wird automatisch eine SMS gesendet, um diese Funktion zu reaktivieren."</string>
+  <string name="find_device_stop_noise">OK antippen, um stumm zu schalten</string>
+  <string name="find_device_success_title">Gerät finden</string>
+  <string name="i_know">OK</string>
+  <string name="lock_msg_phone">Kontakt-Information: %s</string>
+  <string name="login_failed">"Einloggen fehlgeschlagen"</string>
+  <string name="password">Passwort</string>
+  <string name="phone_locked">Dieses Gerät ist möglicherweise mit einem bestehenden Mi Konto(%s) verknüpft. Melden Sie sich an, um das Gerät zu aktivieren.</string>
+  <string name="stop_on_empty_captcha">"Captcha darf nicht leer sein"</string>
+  <string name="stop_on_empty_password">"Passwort darf nicht leer sein"</string>
+  <string name="unlock">Aktivieren</string>
+  <string name="unlock_access_denied">Zugang verweigert</string>
+  <string name="unlock_bad_authentication">Ungültiger Benutzername oder Passwort</string>
+  <string name="unlock_error_device_id">"Geräte ID kann nicht ermittelt werden"</string>
+  <string name="unlock_error_interrupted">Unterbrochen</string>
+  <string name="unlock_error_network">"Keine Netzwerkverbindung"</string>
+  <string name="unlock_error_rpc">RPC Fehler</string>
+  <string name="unlock_error_server">Server Fehler</string>
+  <string name="unlock_error_ssl_hand_shake">"Keine Verbindung zum Server, stellen Sie Datum und Uhrzeit manuell ein."</string>
+  <string name="unlock_error_unknown">"Anmeldung nicht möglich"</string>
+  <string name="unlock_error_user_name">Ungültiger Benutzername</string>
+  <string name="unlock_wrong_captcha">Der eingegebene Code ist falsch</string>
+  <string name="unlocking">Aktivierung…</string>
+  <string name="verify_password_failed">"Mi Konto ID konnte nicht überprüft werden. %s."</string>
+</resources>

@@ -1,50 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string-array name="default_smiley_texts">
-        <item>:-)</item>
-        <item>:-(</item>
-        <item>;-)</item>
-        <item>:-P</item>
-        <item>=-O</item>
-        <item>:-*</item>
-        <item>:O</item>
-        <item>B-)</item>
-        <item>:-$</item>
-        <item>:-!</item>
-        <item>:-[</item>
-        <item>O:-)</item>
-        <item>:-\\</item>
-        <item>":'("</item>
-        <item>:-X</item>
-        <item>:-D</item>
-        <item>o_O</item>
-        <item>&lt;3</item>
-        <item>x-(</item>
-        <item>:-/</item>
-        <item>:-I</item>
-    </string-array>
+    <string-array name="wild_msg_sync_options">
+        <item>Synchronisieren Sie alle Nachrichten</item>
+        <item>Synchronisierungsnachrichten von ausgewählten SIM-Karten</item>
+     </string-array>
     <string-array name="default_smiley_names">
-        <item>Happy</item>
-        <item>Sad</item>
-        <item>Winking</item>
-        <item>Tongue sticking out</item>
-        <item>Surprised</item>
-        <item>Kissing</item>
-        <item>Yelling</item>
+        <item>Glücklich</item>
+        <item>Traurig</item>
+        <item>Zwinkern</item>
+        <item>Zunge herausstrecken</item>
+        <item>Überrascht</item>
+        <item>Küssen</item>
+        <item>Geschrei</item>
         <item>Cool</item>
-        <item>Money mouth</item>
-        <item>Foot in mouth</item>
-        <item>Embarrassed</item>
-        <item>Angel</item>
-        <item>Undecided</item>
-        <item>Crying</item>
-        <item>Lips are sealed</item>
-        <item>Laughing</item>
-        <item>Confused</item>
-        <item>Heart</item>
-        <item>Mad</item>
-        <item>Smirk</item>
-        <item>Poker face</item>
+        <item>Geld Mund</item>
+        <item>Fuß im Mund</item>
+        <item>Verlegen</item>
+        <item>Engel</item>
+        <item>Unentschieden</item>
+        <item>Weinen</item>
+        <item>Lippen sind versiegelt</item>
+        <item>Lachen</item>
+        <item>Verwirrt</item>
+        <item>Herz</item>
+        <item>Verrückt</item>
+        <item>Grinsen</item>
+        <item>Pokerface</item>
     </string-array>
     <string-array name="prefEntries_ringtone_repeat">
         <item>1 Mal</item>
@@ -65,18 +46,23 @@
         <item>Website</item>
         <item>Adresse</item>
         <item>Notiz</item>
+        <item>Beziehung</item>
     </string-array>
     <string-array name="entries_date_type">
-        <item>Erhalten</item>
-        <item>Gesendet</item>
+        <item>Empfangszeit</item>
+        <item>Absendezeit</item>
     </string-array>
+    <string-array name="entries_date_type_rightvalue">
+        <item>Erhaltet</item>
+        <item>Gesendet</item>
+     </string-array>
     <string-array name="resent_via_entries_sms">
         <item>SMS</item>
-        <item>Mi Message</item>
+        <item>Mi Nachricht</item>
     </string-array>
     <string-array name="resent_via_entries_mms">
         <item>SMS</item>
-        <item>Mi Message</item>
+        <item>Mi Nachricht</item>
     </string-array>
     <string-array name="entries_sms_validity_period">
         <item>Nicht festgelegt</item>

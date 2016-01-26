@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
-  <string name="add_alarm">hinzufügen</string>
+  <string name="add_alarm">"  Neuer Wecker  "</string>
   <string name="alarm_alert">Standard Weckton</string>
   <string name="alarm_alert_alert_silenced">Wecker verstummt nach %d Minuten.</string>
   <string name="alarm_alert_snooze_set">Für %d Minuten schlummern.</string>
@@ -42,8 +42,8 @@
   <string name="default_label">Wecker</string>
   <string name="delelte_selected_timezone">Ausgewählte Zeitzone löschen?</string>
   <string name="delete">Löschen</string>
-  <string name="delete_alarm">Wecker entfernen</string>
-  <string name="delete_alarm_confirm">Diesen Wecker entfernen?</string>
+  <string name="delete_alarm">Wecker löschen</string>
+  <string name="delete_alarm_confirm">Diesen Wecker löschen?</string>
   <string name="delete_selected_timer_item">Ausgewählten Timer löschen?</string>
   <string name="delete_timer_item_title">Timer löschen</string>
   <string name="delete_timezone_title">Zeitzone löschen</string>
@@ -66,7 +66,7 @@
   <string name="legal_workday_invalidate_message">(Daten ungültig. Aktualisiere die Einstellungen)</string>
   <string name="legal_workday_message">" (Wecker an Feiertagen ausgeschaltet)"</string>
   <string name="loading_ringtone">Klingelton wird geladen...</string>
-  <string name="menu_add_worldclock">neue Weltzeit</string>
+  <string name="menu_add_worldclock">Neue Weltzeit</string>
   <string name="menu_desk_clock">Schreibtischuhr</string>
   <string name="menu_edit_timer_item">Timer bearbeiten</string>
   <string name="menu_item_dock_settings">Dock-Einstellungen</string>
@@ -85,6 +85,8 @@
   <string name="shutdown_alarm_enable_summary">Standby Alarm ist AN</string>
   <string name="shutdown_alarm_title">Standby Alarm</string>
   <string name="silent_alarm_summary">Lautlosmodus</string>
+  <string name="skip_alarm_date_format">%1$s(%2$s)</string>
+  <string name="skip_alarm_once_hint">Am %s einmalig ausschalten</string>
   <string name="slider_text">Zum Ausschalten nach oben wischen</string>
   <string name="snooze_confirm_cancel">Schlummern abbrechen</string>
   <string name="snooze_duration_title">Schlummerdauer</string>
@@ -104,11 +106,15 @@
   <string name="timer_item_picker_hour">Stunde</string>
   <string name="timer_item_picker_minute">Min</string>
   <string name="timer_item_picker_second">Sek</string>
-  <string name="timer_new_item">neuer Timer</string>
+  <string name="timer_new_item">Neuer Timer</string>
   <string name="timer_notify_text">Schlummern oder Timer verwerfen</string>
   <string name="timer_start_alarm">Zeit ist abgelaufen!</string>
   <string name="timer_title">Timer</string>
   <string name="timezone_exist_error_message">Diese Zeitzone wird bereits angezeigt</string>
+  <string name="today">Heute</string>
+  <string name="tomorrow">Morgen</string>
+  <string name="turn_off_a_repeat_alarm">Wiederkehrenden Wecker ausschalten</string>
+  <string name="turn_off_this_repeat_alarm">Diesen wiederkehrenden Wecker ausschalten</string>
   <string name="vibrate_pref_summary">Bei Alarm vibrieren</string>
   <string name="vibrate_when_ringing">Vibrieren beim Klingeln</string>
   <string name="volume_button_setting_summary">Verhalten dieser Tasten während Wecker klingelt</string>

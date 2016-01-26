@@ -52,6 +52,10 @@
         <item quantity="other">%1$d ausgewählt</item>
         <item quantity="one">%1$d ausgewählt</item>
     </plurals>
+	<plurals name="number_of_items_available">
+        <item quantity="other">%1$d übrig</item>
+        <item quantity="one">%1$d übrig</item>
+    </plurals>
     <plurals name="pick_favorites_list_title">
         <item quantity="other">%1$d Favoriten</item>
         <item quantity="one">%1$d Favorit</item>
@@ -113,6 +117,10 @@
         <item quantity="other">Diese %1$d Nummern entsperren?</item>
         <item quantity="one">Diese Nummer entsperren?</item>
     </plurals>
+    <plurals name="voip_contacts_count">
++        <item quantity="other">%1$d Kontakte</item>
++        <item quantity="one">%1$d Kontakt</item>
++    </plurals>
     <plurals name="callNoAnswerTimeFormat">
         <item quantity="other">%d x angeklingelt</item>
         <item quantity="one">%d x angeklingelt</item>
